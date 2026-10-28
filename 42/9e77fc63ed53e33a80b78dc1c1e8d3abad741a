@@ -1,0 +1,19 @@
+src/panels/config/automation/trigger/types/ha-automation-trigger-numeric_state.ts
+  h_e08a86bb3a33a2 182-185,244,260-262,288-295
+  h_e08a86bb3a33a2 296
+src/translations/en.json
+  h_e08a86bb3a33a2 5918-5919
+src/data/automation.ts
+  h_e08a86bb3a33a2 152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "429e77fc63ed53e33a80b78dc1c1e8d3abad741a",
+  "prompts": {},
+  "humans": {
+    "h_e08a86bb3a33a2": {
+      "author": "Tristan Cartledge <tristan.cartledge@gmail.com>"
+    }
+  }
+}
