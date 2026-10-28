@@ -1,0 +1,16 @@
+src/components/ha-areas-floors-display-editor.ts
+  h_e08a86bb3a33a2 248-249,251-252,256
+test/components/ha-areas-floors-display-editor.test.ts
+  h_e08a86bb3a33a2 1-184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e8baeb0e716ce462d538c0b2284bda043843d9de",
+  "prompts": {},
+  "humans": {
+    "h_e08a86bb3a33a2": {
+      "author": "Tristan Cartledge <tristan.cartledge@gmail.com>"
+    }
+  }
+}
